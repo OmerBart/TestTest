@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Assessments (1)</name>
+   <tag></tag>
+   <elementGuidId>37e8b8e3-5acd-4fc0-9822-7057bbf1b488</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#assessments-button > h3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='assessments-button']/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Assessments&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>ddcc9997-0e59-4bf4-8099-aebbf2df39cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Assessments</value>
+      <webElementGuid>0bc010b9-682c-4e84-ae0d-f5c61d7032e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;assessments-button&quot;)/h3[1]</value>
+      <webElementGuid>1454c074-9053-49ad-ae3f-2e7717785ee7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='assessments-button']/h3</value>
+      <webElementGuid>fc694429-e51a-4fa9-a4ed-7bcdcdb64f93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Patient Communication'])[1]/following::h3[1]</value>
+      <webElementGuid>68c7649e-ed27-436d-a8f3-290be23e712b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Patient Actions'])[1]/following::h3[2]</value>
+      <webElementGuid>a8969c01-a92c-4c64-932a-ad5f15670d0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exercising &amp; Lifestyle'])[1]/preceding::h3[1]</value>
+      <webElementGuid>eeb8cc18-f48e-4d8e-ba99-9351bba117f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Progressive Muscle Relaxation'])[1]/preceding::h3[2]</value>
+      <webElementGuid>91763fa2-c011-4f3b-95f2-ea039533df8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Assessments']/parent::*</value>
+      <webElementGuid>9d5f18bc-f576-4418-9696-2c6b28be45b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/h3</value>
+      <webElementGuid>d222ba83-632d-44b6-8f45-36ac241f65ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Assessments' or . = 'Assessments')]</value>
+      <webElementGuid>b2762435-f1c3-40c3-a99b-e728e18e9803</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>trying to log into the system</description>
+   <name>Logging in</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>be5c66be-b488-4b76-9ad0-f6ed338df4a9</testCaseGuid>
+</TestCaseEntity>

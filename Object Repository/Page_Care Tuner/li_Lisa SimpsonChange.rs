@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Lisa SimpsonChange</name>
+   <tag></tag>
+   <elementGuidId>795a320f-7804-48f6-b0ac-0f4e650a5dc7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='patients-list-v2']/li[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#patients-list-v2 > li:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Lisa SimpsonChange&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>be7f1086-a27b-4233-afa3-593a3d71c92f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lisa SimpsonChange</value>
+      <webElementGuid>477beec3-5f64-4e72-a822-944fc0cf700f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;patients-list-v2&quot;)/li[2]</value>
+      <webElementGuid>8635ff9e-4ad1-44d1-bffd-191f221893c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='patients-list-v2']/li[2]</value>
+      <webElementGuid>e3a8d6b7-95e8-4b0c-a3b4-5f198c3d593d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change'])[1]/following::li[1]</value>
+      <webElementGuid>111c01a5-0c7a-46ee-ac59-09f6d8217f2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bart Simpson'])[2]/following::li[1]</value>
+      <webElementGuid>ed26c76c-03dc-4f6c-b004-52e53daec7f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/li[2]</value>
+      <webElementGuid>a58c560f-c171-4691-8989-85844f421ad2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Lisa SimpsonChange' or . = 'Lisa SimpsonChange')]</value>
+      <webElementGuid>d078530e-c888-46df-aee7-3135f9e6fa0c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

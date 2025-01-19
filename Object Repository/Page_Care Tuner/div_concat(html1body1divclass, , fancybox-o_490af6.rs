@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_concat(html1body1divclass, , fancybox-o_490af6</name>
+   <tag></tag>
+   <elementGuidId>d93abeb4-0507-4654-9780-6eb0aa31854b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.fancybox-overlay.fancybox-overlay-fixed</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.fancybox-overlay</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>843a9be8-283b-4a8f-b68b-d42311c48ca5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fancybox-overlay fancybox-overlay-fixed</value>
+      <webElementGuid>38be87c7-1e29-4f84-9eb9-29699e870f70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;fancybox-overlay fancybox-overlay-fixed&quot;]</value>
+      <webElementGuid>e5a1f866-a194-4424-863d-0bfb7ba0fd27</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]</value>
+      <webElementGuid>be41d573-b362-445f-8292-5ed076b5651c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

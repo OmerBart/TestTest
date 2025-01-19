@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Bart SimpsonChange</name>
+   <tag></tag>
+   <elementGuidId>c80330b4-6ade-48fc-92e6-4c465017727c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='patients-list-v2']/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#patients-list-v2 > li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Bart SimpsonChange&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>b142ca10-de5f-4310-af84-da174eb1e25b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bart SimpsonChange</value>
+      <webElementGuid>a364a444-a293-4ca6-b1d3-4b142d24ac56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;patients-list-v2&quot;)/li[1]</value>
+      <webElementGuid>af8fa91b-b52b-4db5-a75a-8699be6c6b98</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='patients-list-v2']/li</value>
+      <webElementGuid>6815104a-fd18-4f5b-aa20-953f0ed0fc66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort by'])[1]/following::li[2]</value>
+      <webElementGuid>663d54c1-d27b-4a91-a0ab-026ac19bcf10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Patient'])[1]/following::li[2]</value>
+      <webElementGuid>20c3effe-1876-49a2-95bb-64b2de544eb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/li</value>
+      <webElementGuid>4dc3bc17-6072-44ca-8614-098335ff06ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Bart SimpsonChange' or . = 'Bart SimpsonChange')]</value>
+      <webElementGuid>39f6002b-5cc8-4907-aff9-b3f7549d2a5b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

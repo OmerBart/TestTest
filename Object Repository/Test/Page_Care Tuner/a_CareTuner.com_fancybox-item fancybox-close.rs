@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_CareTuner.com_fancybox-item fancybox-close</name>
+   <tag></tag>
+   <elementGuidId>06ba3dcb-6bd6-4c93-8ce3-359ca899c4c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.fancybox-item.fancybox-close</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(@href, 'javascript:;')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Close&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2215ed8f-634b-4ca1-92c0-ea7d6cd55d4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Close</value>
+      <webElementGuid>fb7295ca-8a32-4006-9bf9-540f74c6683a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fancybox-item fancybox-close</value>
+      <webElementGuid>da7910af-a334-440e-9382-09edd2de0216</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:;</value>
+      <webElementGuid>37180c1f-a883-4e70-9ea9-7707819f095d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;fancybox-wrap fancybox-desktop fancybox-type-iframe fancybox-opened&quot;]/div[@class=&quot;fancybox-skin&quot;]/a[@class=&quot;fancybox-item fancybox-close&quot;]</value>
+      <webElementGuid>f90578e9-bf4f-4ff6-bf45-95db1a26495e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:;')]</value>
+      <webElementGuid>f56feec3-df23-45c0-8023-a637ea10bc8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/a</value>
+      <webElementGuid>adab14fc-aa17-4aea-b379-1f3d8a31ff7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Close' and @href = 'javascript:;']</value>
+      <webElementGuid>3acf6ddf-6180-4460-ae3a-de78c680e98e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>viewing patient diary moving forward and backwards one month about 5 minutes overall</description>
+   <name>Viewing patient diary</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9f6d2262-25cd-4fce-b187-a5066c7f4b66</testCaseGuid>
+</TestCaseEntity>

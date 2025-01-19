@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>switcxhing between patients</description>
+   <name>Switching users</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>63351f89-36d5-43fa-ad49-31e2337d98dc</testCaseGuid>
+</TestCaseEntity>

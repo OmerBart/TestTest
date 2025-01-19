@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test,,,,16-01-2025 12:14:26,16-01-2025 12:14:26,0.154s,PASSED
+,,,,,,,
+Test Cases/Viewing patient diary,,viewing patient diary moving forward and backwards one month about 5 minutes overall,,16-01-2025 12:14:26,16-01-2025 12:14:26,0.081s,PASSED
+return null,,,,16-01-2025 12:14:26,16-01-2025 12:14:26,0.001s,PASSED

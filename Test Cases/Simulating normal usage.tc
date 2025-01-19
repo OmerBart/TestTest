@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Simulating normal usage</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c7c1e7ab-a9e1-492c-aae0-7136846eafe4</testCaseGuid>
+</TestCaseEntity>
